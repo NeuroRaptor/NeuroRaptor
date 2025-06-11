@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center"> Arpit Amborkar </h1>
 
-<!--
-**NeuroRaptor/NeuroRaptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Science | Cloud | Machine Learning Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🎓 Education
+
+**MSc Data Science**  
+*University of Europe for Applied Sciences, Potsdam*
+
+---
+## 💡 Capstone Project
+
+### 🧠 Fake News Detection Using NLP and Machine Learning
+
+---
+
+## 🛠 Technical Skill Set
+
+- **Languages:** Python, Java, C  
+- **Data & Analytics:** SQL, Power BI, Tableau  
+- **Cloud Platforms:** AWS  
+- **Tools & Libraries:** Scikit-learn, Pandas, NumPy, NLTK, Matplotlib, Seaborn  
+- **Currently Learning:** Model Optimization, Data Storytelling, and LLMs
+
+---
+
+## 🌱 Currently Exploring
+
+- Building intelligent systems with NLP  
+- Deploying ML models on website
+- Open-source collaboration
+
+---
+
+## 🙋‍♂️ Let's Connect
+
+I’m always open to collaborating on interesting projects, contributing to open source, or simply connecting with fellow tech enthusiasts.
+
+---
+## 📫 Get In Touch
+
+<p>
+  <a href="https://www.linkedin.com/in/arpitamborkar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="mailto:arpitamborkar1@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
+  <a href="https://github.com/NeuroRaptor">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+---
+
+
