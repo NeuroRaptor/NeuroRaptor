@@ -23,7 +23,22 @@
 ---
 ## 💡 Capstone Project
 
-### 🧠 Fake News Detection Using NLP and Machine Learning
+### 📰 Fake News Detection — Capstone Project  
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+An end-to-end Fake News Detection system using Natural Language Processing (NLP) and classical, deep learning, and transformer based models.
+
+🔗 **Live App**: [https://detectfakenews-gkm5.onrender.com](https://detectfakenews-gkm5.onrender.com)
+
+📌 **Highlights**:
+- Built and evaluated models: Random Forest, Logistic regression, SVM, Naive Bayes, LSTM, CNN, BERT
+- Preprocessed dataset using NLTK and TF-IDF
+- Best model (SVM) deployed with Flask on Render
+
+📂 **Repos**:
+- 🧠 Model Training: [Fake-News-Detection](https://github.com/NeuroRaptor/Fake-News-Detection)
+- 🌐 Web App Deployment: [FakeNewsDetect](https://github.com/NeuroRaptor/FakeNewsDetect)
 
 ---
 
