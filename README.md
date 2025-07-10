@@ -29,7 +29,7 @@
 
 An end-to-end Fake News Detection system using Natural Language Processing (NLP) and classical, deep learning, and transformer based models.
 
-🔗 **Live App**: [https://detectfakenews-gkm5.onrender.com](https://detectfakenews-gkm5.onrender.com)
+🔗 **Live App**: [https://fakenewsdetect-yhif.onrender.com](https://fakenewsdetect-yhif.onrender.com)
 
 📌 **Highlights**:
 - Built and evaluated models: Random Forest, Logistic regression, SVM, Naive Bayes, LSTM, CNN, BERT
