@@ -202,5 +202,5 @@
 
 <p align="center">
   💼 <strong>Based in Berlin | ML Engineer & Data Scientist</strong><br/>
-  🌍 English (C1) | German (A2)
+  🌍 English (C1) | German (B1)
 </p>
